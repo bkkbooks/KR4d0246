@@ -322,6 +322,7 @@ markers:
   - {type: line-break, offset: 627, content: '', id: KR4d0246_WYG_014-4b02}
   - {type: indent, offset: 627, content: 　　　, id: KR4d0246_krp_014-bkkind33}
   - {type: punctuation, offset: 629, content: (, id: KR4d0246_krp_014-bkkpn1}
+  - {type: voice, offset: 629, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 635, content: /, id: KR4d0246_krp_014-bkkpn2}
   - {type: substitution, offset: 640, original: 顇, replacement: 悴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17374}}
   - {type: punctuation, offset: 641, content: ), id: KR4d0246_krp_014-bkkpn3}
@@ -593,6 +594,7 @@ markers:
   - {type: line-break, offset: 1198, content: '', id: KR4d0246_WYG_014-7b04}
   - {type: indent, offset: 1198, content: 　　　, id: KR4d0246_krp_014-bkkind58}
   - {type: punctuation, offset: 1201, content: (, id: KR4d0246_krp_014-bkkpn4}
+  - {type: voice, offset: 1201, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 1204, content: /, id: KR4d0246_krp_014-bkkpn5}
   - {type: punctuation, offset: 1207, content: ), id: KR4d0246_krp_014-bkkpn6}
   - {type: 'kr:newline', offset: 1207, content: '
@@ -1082,6 +1084,7 @@ markers:
   - {type: line-break, offset: 2221, content: '', id: KR4d0246_WYG_014-13a05}
   - {type: indent, offset: 2221, content: 　　　, id: KR4d0246_krp_014-bkkind103}
   - {type: punctuation, offset: 2224, content: (, id: KR4d0246_krp_014-bkkpn7}
+  - {type: voice, offset: 2224, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 2227, content: /, id: KR4d0246_krp_014-bkkpn8}
   - {type: punctuation, offset: 2229, content: ), id: KR4d0246_krp_014-bkkpn9}
   - {type: 'kr:newline', offset: 2229, content: '
@@ -1258,4 +1261,4 @@ markers:
 
       ', id: KR4d0246_krp_014-bkkkrnewl256}
   back: []
-hash: sha256:8d8309709548de8e6879c0f5249cfa15b97b4652f75c6a6c704f6b61f36ceecf
+hash: sha256:76bc23b90811a1d1b6eac07bcf092e68cf2510358e6a30c403387aecab2e422a
